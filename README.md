@@ -5,8 +5,7 @@
 
 This repo contains all my work for Python Language. All the code base and images, are taken from [Automate the Boring Stuff with Python.](https://www.udemy.com/share/101W8U2@FEdjfWFfQ1MOdkNLA2JOfj1tYw==/).
 
-*Automate the Boring Stuff with Python was written for people who want to get up to speed writing small programs that do practical tasks as soon as possible. You don't need to know sorting algorithms or object-oriented programming, so this course skips all the computer science and concentrates on writing code that gets stuff done.*
-*This course covers the popular Python programming language. You'll learn basic concepts as well as:*
+*Automate the Boring Stuff covers the popular Python programming language. You'll learn basic concepts as well as:*
 + Web scraping
 + Parsing PDFs and Excel spreadsheets
 + Automating the keyboard and mouse
