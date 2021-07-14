@@ -1,4 +1,4 @@
-# Neural-Networks-and-Deep-Learning Specialization on Coursera
+# Automate the Boring Stuff with Python
 
 
 ## Introduction
